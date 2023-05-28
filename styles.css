@@ -1,0 +1,22 @@
+body {
+    background: skyblue;
+}
+
+h1 {
+    letter-spacing: 7px;
+    font-family: cursive;
+    border: 5px solid rgb(4, 4, 131);
+    border-radius: 10px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 8%;
+}
+
+#heading {
+    text-align: center;
+    width: 85%;
+    margin: auto;
+    padding-top: 5%;
+}
